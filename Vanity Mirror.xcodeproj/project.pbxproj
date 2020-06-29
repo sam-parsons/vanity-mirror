@@ -11,7 +11,24 @@
 		3C85427624A96C49009C653E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C85427524A96C49009C653E /* ViewController.swift */; };
 		3C85427824A96C4C009C653E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C85427724A96C4C009C653E /* Assets.xcassets */; };
 		3C85427B24A96C4C009C653E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C85427924A96C4C009C653E /* Main.storyboard */; };
+		3C85428624A972FD009C653E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C85428524A972FD009C653E /* ContentView.swift */; };
+		3C85428B24A98189009C653E /* HotKey.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C85428924A980E1009C653E /* HotKey.framework */; };
+		3C85428C24A98189009C653E /* HotKey.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3C85428924A980E1009C653E /* HotKey.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3C85428D24A98189009C653E /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				3C85428C24A98189009C653E /* HotKey.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		3C85427024A96C49009C653E /* Vanity Mirror.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Vanity Mirror.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -21,6 +38,15 @@
 		3C85427A24A96C4C009C653E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3C85427C24A96C4C009C653E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C85427D24A96C4C009C653E /* Vanity_Mirror.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Vanity_Mirror.entitlements; sourceTree = "<group>"; };
+		3C85428524A972FD009C653E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3C85428824A980E1009C653E /* HotKey.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = HotKey.framework.dSYM; path = Carthage/Build/Mac/HotKey.framework.dSYM; sourceTree = "<group>"; };
+		3C85428924A980E1009C653E /* HotKey.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HotKey.framework; path = Carthage/Build/Mac/HotKey.framework; sourceTree = "<group>"; };
+		3C85428A24A98139009C653E /* Mac */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Mac; path = Carthage/Build/Mac; sourceTree = "<group>"; };
+		3C85428E24A98189009C653E /* Modules */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Modules; path = Carthage/Build/Mac/HotKey.framework/Modules; sourceTree = "<group>"; };
+		3C85428F24A98189009C653E /* Headers */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Headers; path = Carthage/Build/Mac/HotKey.framework/Headers; sourceTree = "<group>"; };
+		3C85429024A98189009C653E /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Resources; path = Carthage/Build/Mac/HotKey.framework/Resources; sourceTree = "<group>"; };
+		3C85429124A98189009C653E /* HotKey */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = HotKey; path = Carthage/Build/Mac/HotKey.framework/HotKey; sourceTree = "<group>"; };
+		3C85429224A98189009C653E /* Versions */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Versions; path = Carthage/Build/Mac/HotKey.framework/Versions; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -28,6 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C85428B24A98189009C653E /* HotKey.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -39,6 +66,7 @@
 			children = (
 				3C85427224A96C49009C653E /* Vanity Mirror */,
 				3C85427124A96C49009C653E /* Products */,
+				3C85428724A980E0009C653E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,10 +85,26 @@
 				3C85427524A96C49009C653E /* ViewController.swift */,
 				3C85427724A96C4C009C653E /* Assets.xcassets */,
 				3C85427924A96C4C009C653E /* Main.storyboard */,
+				3C85428524A972FD009C653E /* ContentView.swift */,
 				3C85427C24A96C4C009C653E /* Info.plist */,
 				3C85427D24A96C4C009C653E /* Vanity_Mirror.entitlements */,
 			);
 			path = "Vanity Mirror";
+			sourceTree = "<group>";
+		};
+		3C85428724A980E0009C653E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3C85428F24A98189009C653E /* Headers */,
+				3C85429124A98189009C653E /* HotKey */,
+				3C85428E24A98189009C653E /* Modules */,
+				3C85429024A98189009C653E /* Resources */,
+				3C85429224A98189009C653E /* Versions */,
+				3C85428A24A98139009C653E /* Mac */,
+				3C85428924A980E1009C653E /* HotKey.framework */,
+				3C85428824A980E1009C653E /* HotKey.framework.dSYM */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -73,6 +117,8 @@
 				3C85426C24A96C49009C653E /* Sources */,
 				3C85426D24A96C49009C653E /* Frameworks */,
 				3C85426E24A96C49009C653E /* Resources */,
+				3C85428D24A98189009C653E /* Embed Frameworks */,
+				3C85429324A981A0009C653E /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -128,6 +174,27 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		3C85429324A981A0009C653E /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/Mac/HotKey.framework",
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n/usr/local/bin/carthage copy-frameworks\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		3C85426C24A96C49009C653E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -135,6 +202,7 @@
 			files = (
 				3C85427624A96C49009C653E /* ViewController.swift in Sources */,
 				3C85427424A96C49009C653E /* AppDelegate.swift in Sources */,
+				3C85428624A972FD009C653E /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +342,10 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = AX55JN5S4C;
 				ENABLE_HARDENED_RUNTIME = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+				);
 				INFOPLIST_FILE = "Vanity Mirror/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -294,6 +366,10 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = AX55JN5S4C;
 				ENABLE_HARDENED_RUNTIME = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+				);
 				INFOPLIST_FILE = "Vanity Mirror/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

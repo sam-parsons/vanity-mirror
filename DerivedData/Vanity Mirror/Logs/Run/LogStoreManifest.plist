@@ -5,6 +5,789 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>10D3DDFA-7B36-4662-88D5-85CE0C79958D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>10D3DDFA-7B36-4662-88D5-85CE0C79958D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615090079.52771294</real>
+			<key>timeStoppedRecording</key>
+			<real>615090331.85300601</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>10D3DDFA-7B36-4662-88D5-85CE0C79958D</string>
+		</dict>
+		<key>230193DD-4E19-4D28-AB9C-D6108F87A9A0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>230193DD-4E19-4D28-AB9C-D6108F87A9A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615092302.71902001</real>
+			<key>timeStoppedRecording</key>
+			<real>615092415.42806101</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>230193DD-4E19-4D28-AB9C-D6108F87A9A0</string>
+		</dict>
+		<key>2509194A-F042-4368-B279-01C52EEBC8CF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2509194A-F042-4368-B279-01C52EEBC8CF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615095028.24965501</real>
+			<key>timeStoppedRecording</key>
+			<real>615095046.09545398</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>2509194A-F042-4368-B279-01C52EEBC8CF</string>
+		</dict>
+		<key>26B9BA37-47DF-4DBB-BFD0-2FBAD41D0270</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>26B9BA37-47DF-4DBB-BFD0-2FBAD41D0270.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615090352.07718503</real>
+			<key>timeStoppedRecording</key>
+			<real>615090375.35982394</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>26B9BA37-47DF-4DBB-BFD0-2FBAD41D0270</string>
+		</dict>
+		<key>28A04D69-F835-4896-BCDD-DDF2960921CB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>28A04D69-F835-4896-BCDD-DDF2960921CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615089577.64428997</real>
+			<key>timeStoppedRecording</key>
+			<real>615089634.03722</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>28A04D69-F835-4896-BCDD-DDF2960921CB</string>
+		</dict>
+		<key>2C317BFB-39F0-4066-B889-3D8B24837CBE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2C317BFB-39F0-4066-B889-3D8B24837CBE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615089366.75648797</real>
+			<key>timeStoppedRecording</key>
+			<real>615089380.99796498</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>2C317BFB-39F0-4066-B889-3D8B24837CBE</string>
+		</dict>
+		<key>3E5CFA62-D11B-4F56-A9ED-86FE2A21D0EB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E5CFA62-D11B-4F56-A9ED-86FE2A21D0EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615092924.30375695</real>
+			<key>timeStoppedRecording</key>
+			<real>615092956.70391202</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>3E5CFA62-D11B-4F56-A9ED-86FE2A21D0EB</string>
+		</dict>
+		<key>4174C299-71CC-4EC2-B858-D58A5DB1BCE8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4174C299-71CC-4EC2-B858-D58A5DB1BCE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615090509.76259995</real>
+			<key>timeStoppedRecording</key>
+			<real>615090944.00833201</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>4174C299-71CC-4EC2-B858-D58A5DB1BCE8</string>
+		</dict>
+		<key>4ECBB817-B32C-4CDE-9AB8-C9A67406E900</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4ECBB817-B32C-4CDE-9AB8-C9A67406E900.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615091184.66519701</real>
+			<key>timeStoppedRecording</key>
+			<real>615091635.00986099</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>4ECBB817-B32C-4CDE-9AB8-C9A67406E900</string>
+		</dict>
+		<key>50AB7299-CF8C-4178-B8E0-7BEEF54A154F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>50AB7299-CF8C-4178-B8E0-7BEEF54A154F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615095046.430848</real>
+			<key>timeStoppedRecording</key>
+			<real>615095090.79147303</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>50AB7299-CF8C-4178-B8E0-7BEEF54A154F</string>
+		</dict>
+		<key>57DFE332-0056-45A9-AD01-488C74CDDD59</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>57DFE332-0056-45A9-AD01-488C74CDDD59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615089442.30591404</real>
+			<key>timeStoppedRecording</key>
+			<real>615089493.98717499</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>57DFE332-0056-45A9-AD01-488C74CDDD59</string>
+		</dict>
+		<key>667BC9FD-6F8F-4705-A376-01988B1A4F12</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>667BC9FD-6F8F-4705-A376-01988B1A4F12.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615090421.48405695</real>
+			<key>timeStoppedRecording</key>
+			<real>615090472.30458605</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>667BC9FD-6F8F-4705-A376-01988B1A4F12</string>
+		</dict>
+		<key>9B199EB0-2C1F-409C-8A8D-B0D219361358</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9B199EB0-2C1F-409C-8A8D-B0D219361358.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615095159.70102704</real>
+			<key>timeStoppedRecording</key>
+			<real>615095337.13947296</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>9B199EB0-2C1F-409C-8A8D-B0D219361358</string>
+		</dict>
+		<key>A18EA278-7861-4C05-8211-F4DE6D26264E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A18EA278-7861-4C05-8211-F4DE6D26264E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615092992.97495401</real>
+			<key>timeStoppedRecording</key>
+			<real>615093027.870978</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>A18EA278-7861-4C05-8211-F4DE6D26264E</string>
+		</dict>
+		<key>AE6ED507-ED1E-4DAB-BC1C-7F61767D374F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AE6ED507-ED1E-4DAB-BC1C-7F61767D374F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615091647.26174104</real>
+			<key>timeStoppedRecording</key>
+			<real>615091691.67489302</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>AE6ED507-ED1E-4DAB-BC1C-7F61767D374F</string>
+		</dict>
+		<key>B4E665A1-84E0-46E4-B6BF-9118C555BB0F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B4E665A1-84E0-46E4-B6BF-9118C555BB0F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615089381.307989</real>
+			<key>timeStoppedRecording</key>
+			<real>615089440.33169603</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>B4E665A1-84E0-46E4-B6BF-9118C555BB0F</string>
+		</dict>
+		<key>B88FEBD7-34B5-453A-9664-E305BBE3EF7D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B88FEBD7-34B5-453A-9664-E305BBE3EF7D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615095015.07594502</real>
+			<key>timeStoppedRecording</key>
+			<real>615095027.897053</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>B88FEBD7-34B5-453A-9664-E305BBE3EF7D</string>
+		</dict>
+		<key>BF7C20A2-08D0-4907-9502-C3BF89D79A18</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BF7C20A2-08D0-4907-9502-C3BF89D79A18.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615090946.62854195</real>
+			<key>timeStoppedRecording</key>
+			<real>615091182.28688705</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>BF7C20A2-08D0-4907-9502-C3BF89D79A18</string>
+		</dict>
+		<key>CD7624DB-A916-4777-A386-C31CD93B8EDA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CD7624DB-A916-4777-A386-C31CD93B8EDA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615092968.17985404</real>
+			<key>timeStoppedRecording</key>
+			<real>615092991.35700297</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>CD7624DB-A916-4777-A386-C31CD93B8EDA</string>
+		</dict>
+		<key>D4539512-D06B-40F7-A68C-93F8ACD855B4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D4539512-D06B-40F7-A68C-93F8ACD855B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615095130.61088395</real>
+			<key>timeStoppedRecording</key>
+			<real>615095157.63714898</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>D4539512-D06B-40F7-A68C-93F8ACD855B4</string>
+		</dict>
+		<key>DCA05E1A-F945-4E06-BF54-DA0F47B1491D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DCA05E1A-F945-4E06-BF54-DA0F47B1491D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615089022.59409499</real>
+			<key>timeStoppedRecording</key>
+			<real>615089049.41127503</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>DCA05E1A-F945-4E06-BF54-DA0F47B1491D</string>
+		</dict>
+		<key>E63A0354-9AC3-4B6F-9AB0-F83FE703F50D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E63A0354-9AC3-4B6F-9AB0-F83FE703F50D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615091744.38531697</real>
+			<key>timeStoppedRecording</key>
+			<real>615092015.91610801</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>E63A0354-9AC3-4B6F-9AB0-F83FE703F50D</string>
+		</dict>
+		<key>F692424E-1CA6-4D49-BE9D-1D15C20F6D61</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F692424E-1CA6-4D49-BE9D-1D15C20F6D61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615093029.44314396</real>
+			<key>timeStoppedRecording</key>
+			<real>615093181.52409303</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>F692424E-1CA6-4D49-BE9D-1D15C20F6D61</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

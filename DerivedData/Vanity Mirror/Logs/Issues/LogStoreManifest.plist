@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>F9F7B443-6896-428F-98BD-0FF5DAD0E71B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F9F7B443-6896-428F-98BD-0FF5DAD0E71B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Vanity_Mirror-hkxwlmepgadptkefxdkimizgkmtf</string>
+			<key>timeStartedRecording</key>
+			<real>615095336.99027896</real>
+			<key>timeStoppedRecording</key>
+			<real>615095339.79297304</real>
+			<key>title</key>
+			<string>Build target Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>F9F7B443-6896-428F-98BD-0FF5DAD0E71B</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
