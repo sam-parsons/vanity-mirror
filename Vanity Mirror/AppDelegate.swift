@@ -18,14 +18,19 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     
     var statusBarItem: NSStatusItem!
     
+    var contentView: ViewController!
+    
     // toggles camera pane
     @objc func togglePopover(_ sender: AnyObject?) {
          if let button = self.statusBarItem.button {
               if self.popover.isShown {
                    self.popover.performClose(sender)
+                   contentView.stopSession()
               } else {
-                   self.popover.show(relativeTo: button.bounds, of: button, preferredEdge: NSRectEdge.minY)
+                   contentView.startSession()
                    NSApp.activate(ignoringOtherApps: true)
+                   self.popover.show(relativeTo: button.bounds, of: button, preferredEdge: NSRectEdge.minY)
+                   
               }
          }
     }
@@ -49,7 +54,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         register(self)
         
         // Create the SwiftUI view that provides the window contents.
-        let contentView = ViewController()
+        contentView = ViewController()
 
         // Create the popover
         let popover = NSPopover()

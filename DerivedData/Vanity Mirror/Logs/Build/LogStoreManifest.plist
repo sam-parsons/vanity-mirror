@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>00854490-E5A9-4ACD-B4D2-40308C569237</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>00854490-E5A9-4ACD-B4D2-40308C569237.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615176795.64790905</real>
+			<key>timeStoppedRecording</key>
+			<real>615176797.54472399</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>00854490-E5A9-4ACD-B4D2-40308C569237</string>
+		</dict>
 		<key>00A1CDE2-AD24-4F1F-B1F9-65B6BC3730E6</key>
 		<dict>
 			<key>className</key>
@@ -244,6 +278,40 @@
 			<key>uniqueIdentifier</key>
 			<string>242AE1EE-DC62-4A85-B1A8-99F92D8835C6</string>
 		</dict>
+		<key>281370EF-600F-4983-9B50-9905AF73F5F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>281370EF-600F-4983-9B50-9905AF73F5F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615175072.99438</real>
+			<key>timeStoppedRecording</key>
+			<real>615175091.74049795</real>
+			<key>title</key>
+			<string>Archive Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>281370EF-600F-4983-9B50-9905AF73F5F8</string>
+		</dict>
 		<key>2D5B94EE-1B8F-4804-A6A0-1378C6992474</key>
 		<dict>
 			<key>className</key>
@@ -277,6 +345,40 @@
 			<string>Build Vanity Mirror</string>
 			<key>uniqueIdentifier</key>
 			<string>2D5B94EE-1B8F-4804-A6A0-1378C6992474</string>
+		</dict>
+		<key>31E478C5-96C1-4A14-8FA2-C16756C1E30F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31E478C5-96C1-4A14-8FA2-C16756C1E30F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615176979.03490496</real>
+			<key>timeStoppedRecording</key>
+			<real>615176981.20406902</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>31E478C5-96C1-4A14-8FA2-C16756C1E30F</string>
 		</dict>
 		<key>365973D7-5BB2-4A44-9D36-881E9CD9F108</key>
 		<dict>
@@ -345,6 +447,40 @@
 			<string>Build Vanity Mirror</string>
 			<key>uniqueIdentifier</key>
 			<string>41E17FC7-3B78-49E2-A0D8-2E33A9B806FB</string>
+		</dict>
+		<key>43AAC752-A245-45B3-B10E-E0A562DDC8A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43AAC752-A245-45B3-B10E-E0A562DDC8A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615176899.65855598</real>
+			<key>timeStoppedRecording</key>
+			<real>615176901.69935405</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>43AAC752-A245-45B3-B10E-E0A562DDC8A5</string>
 		</dict>
 		<key>461F2EF9-24DC-4078-B350-082C041B014D</key>
 		<dict>
@@ -516,6 +652,40 @@
 			<key>uniqueIdentifier</key>
 			<string>538E8D19-4A6D-44D8-B4AF-5CAFFCC1423E</string>
 		</dict>
+		<key>5800A46A-B209-445E-B523-F409CB5B9C17</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5800A46A-B209-445E-B523-F409CB5B9C17.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615176832.50578594</real>
+			<key>timeStoppedRecording</key>
+			<real>615176833.06413305</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>5800A46A-B209-445E-B523-F409CB5B9C17</string>
+		</dict>
 		<key>58436A85-2680-4655-8D1E-A257B4526358</key>
 		<dict>
 			<key>className</key>
@@ -583,6 +753,40 @@
 			<string>Build Vanity Mirror</string>
 			<key>uniqueIdentifier</key>
 			<string>58545233-6FFA-4482-8696-9E2302D7D73E</string>
+		</dict>
+		<key>5BB45C2D-D172-4240-BFAB-C28369B1ABAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BB45C2D-D172-4240-BFAB-C28369B1ABAF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615176662.87235796</real>
+			<key>timeStoppedRecording</key>
+			<real>615176665.12561595</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>5BB45C2D-D172-4240-BFAB-C28369B1ABAF</string>
 		</dict>
 		<key>5C93B9E6-6D7B-47C1-B012-658B304695B9</key>
 		<dict>
@@ -856,6 +1060,40 @@
 			<key>uniqueIdentifier</key>
 			<string>8D056F42-749D-45F7-BFC9-9A1F2450D76E</string>
 		</dict>
+		<key>8D5DD425-94AC-410E-9F1B-F177B59F1F0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D5DD425-94AC-410E-9F1B-F177B59F1F0E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615176771.927598</real>
+			<key>timeStoppedRecording</key>
+			<real>615176773.86316097</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>8D5DD425-94AC-410E-9F1B-F177B59F1F0E</string>
+		</dict>
 		<key>8EF16034-0ECC-41BF-B042-70F54D15AA74</key>
 		<dict>
 			<key>className</key>
@@ -889,6 +1127,40 @@
 			<string>Build Vanity Mirror</string>
 			<key>uniqueIdentifier</key>
 			<string>8EF16034-0ECC-41BF-B042-70F54D15AA74</string>
+		</dict>
+		<key>8FCE413F-B248-46F9-BDD0-EF10448CE2FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FCE413F-B248-46F9-BDD0-EF10448CE2FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615177401.02259398</real>
+			<key>timeStoppedRecording</key>
+			<real>615177403.08305895</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>8FCE413F-B248-46F9-BDD0-EF10448CE2FF</string>
 		</dict>
 		<key>9A9BBF5D-17B5-4381-A530-F83803064ACE</key>
 		<dict>
@@ -1366,6 +1638,40 @@
 			<key>uniqueIdentifier</key>
 			<string>DF9671D2-3354-4F79-BC41-FA8625FB15BB</string>
 		</dict>
+		<key>E8647543-3A3F-4BD7-A191-66DE8F81F235</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8647543-3A3F-4BD7-A191-66DE8F81F235.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615176745.56236506</real>
+			<key>timeStoppedRecording</key>
+			<real>615176746.11873698</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>E8647543-3A3F-4BD7-A191-66DE8F81F235</string>
+		</dict>
 		<key>E8FAE104-EB79-4CE2-9DC0-EA67A294A8BC</key>
 		<dict>
 			<key>className</key>
@@ -1501,6 +1807,40 @@
 			<string>Build Vanity Mirror</string>
 			<key>uniqueIdentifier</key>
 			<string>EE1ED8A2-BAF5-469F-8EE9-0693DD41983F</string>
+		</dict>
+		<key>F63641E7-9640-4CCD-9404-967123152E32</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F63641E7-9640-4CCD-9404-967123152E32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615176712.64496195</real>
+			<key>timeStoppedRecording</key>
+			<real>615176715.07542706</real>
+			<key>title</key>
+			<string>Build Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>F63641E7-9640-4CCD-9404-967123152E32</string>
 		</dict>
 		<key>F746301B-9048-4499-884F-5A002960CC2C</key>
 		<dict>

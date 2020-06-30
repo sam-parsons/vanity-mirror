@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2EDC975D-C334-45C6-97DC-37719CEC1149</key>
+		<key>58DD4BB2-6C4C-40E5-9811-A3B8E202657B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>2EDC975D-C334-45C6-97DC-37719CEC1149.xcactivitylog</string>
+			<string>58DD4BB2-6C4C-40E5-9811-A3B8E202657B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Vanity_Mirror-hkxwlmepgadptkefxdkimizgkmtf</string>
 			<key>timeStartedRecording</key>
-			<real>615174377.29981899</real>
+			<real>615177401.06666696</real>
 			<key>timeStoppedRecording</key>
-			<real>615174379.29214799</real>
+			<real>615177403.07221198</real>
 			<key>title</key>
 			<string>Build target Vanity Mirror</string>
 			<key>uniqueIdentifier</key>
-			<string>2EDC975D-C334-45C6-97DC-37719CEC1149</string>
+			<string>58DD4BB2-6C4C-40E5-9811-A3B8E202657B</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
