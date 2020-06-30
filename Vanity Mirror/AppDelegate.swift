@@ -9,6 +9,7 @@
 import Cocoa
 import SwiftUI
 import HotKey
+import AVFoundation
 
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate {
@@ -16,6 +17,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     var popover: NSPopover!
     
     var statusBarItem: NSStatusItem!
+    
+//    private let session = AVCaptureSession()
     
     // toggles camera pane
     @objc func togglePopover(_ sender: AnyObject?) {
@@ -47,13 +50,13 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         register(self)
         
         // Create the SwiftUI view that provides the window contents.
-        let contentView = ContentView()
+        let contentView = ViewController()
 
         // Create the popover
         let popover = NSPopover()
-        popover.contentSize = NSSize(width: 400, height: 400)
+        popover.contentSize = NSSize(width: 640, height: 480)
         popover.behavior = .transient
-        popover.contentViewController = NSHostingController(rootView: contentView)
+        popover.contentViewController = contentView
         self.popover = popover
         
         self.statusBarItem = NSStatusBar.system.statusItem(withLength: CGFloat(NSStatusItem.variableLength))
