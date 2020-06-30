@@ -18,8 +18,6 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     
     var statusBarItem: NSStatusItem!
     
-//    private let session = AVCaptureSession()
-    
     // toggles camera pane
     @objc func togglePopover(_ sender: AnyObject?) {
          if let button = self.statusBarItem.button {
@@ -27,6 +25,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
                    self.popover.performClose(sender)
               } else {
                    self.popover.show(relativeTo: button.bounds, of: button, preferredEdge: NSRectEdge.minY)
+                   NSApp.activate(ignoringOtherApps: true)
               }
          }
     }
@@ -55,7 +54,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // Create the popover
         let popover = NSPopover()
         popover.contentSize = NSSize(width: 640, height: 480)
-        popover.behavior = .transient
+        popover.behavior = NSPopover.Behavior.transient;
         popover.contentViewController = contentView
         self.popover = popover
         
@@ -66,10 +65,13 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         }
     }
     
-
     func applicationWillTerminate(_ aNotification: Notification) {
         // unregister hotkey
         unregister(self)
+    }
+    
+    func applicationWillResignActive(_ notification: Notification) {
+        print("resign active")
     }
     
     @IBAction func unregister(_ sender: Any?) {

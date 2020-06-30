@@ -244,6 +244,40 @@
 			<key>uniqueIdentifier</key>
 			<string>5E7578C8-506D-4A5D-A100-E0FD5ACA5884</string>
 		</dict>
+		<key>777CD864-CB90-48DF-9233-F608A0AF14BB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>777CD864-CB90-48DF-9233-F608A0AF14BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615174353.31802106</real>
+			<key>timeStoppedRecording</key>
+			<real>615174377.50414801</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>777CD864-CB90-48DF-9233-F608A0AF14BB</string>
+		</dict>
 		<key>796074FF-FF69-43B9-86C6-C03E7671E47F</key>
 		<dict>
 			<key>className</key>
@@ -312,6 +346,40 @@
 			<key>uniqueIdentifier</key>
 			<string>81AA7526-8FEE-46F6-83CD-77C03882B6F5</string>
 		</dict>
+		<key>847C5644-C90C-4D2A-B1A2-C8C92CA4E363</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>847C5644-C90C-4D2A-B1A2-C8C92CA4E363.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615171418.96237302</real>
+			<key>timeStoppedRecording</key>
+			<real>615174248.268875</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>847C5644-C90C-4D2A-B1A2-C8C92CA4E363</string>
+		</dict>
 		<key>9B199EB0-2C1F-409C-8A8D-B0D219361358</key>
 		<dict>
 			<key>className</key>
@@ -345,6 +413,40 @@
 			<string>Run Vanity Mirror</string>
 			<key>uniqueIdentifier</key>
 			<string>9B199EB0-2C1F-409C-8A8D-B0D219361358</string>
+		</dict>
+		<key>9EF4D923-3C59-4593-87A9-546CDA20857F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9EF4D923-3C59-4593-87A9-546CDA20857F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vanity Mirror project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vanity Mirror</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vanity Mirror</string>
+			<key>timeStartedRecording</key>
+			<real>615174249.68819904</real>
+			<key>timeStoppedRecording</key>
+			<real>615174351.35495806</real>
+			<key>title</key>
+			<string>Run Vanity Mirror</string>
+			<key>uniqueIdentifier</key>
+			<string>9EF4D923-3C59-4593-87A9-546CDA20857F</string>
 		</dict>
 		<key>A60DEC64-D4BE-44F2-867E-1FE61144BF83</key>
 		<dict>
